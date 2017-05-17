@@ -9,6 +9,11 @@ public class TestCode_01 : MonoBehaviour {
 		
 	}
 	
+    /// <summary>
+    /// TEST
+    /// </summary>
+
+
 	// Update is called once per frame
 	void Update () {
 		
